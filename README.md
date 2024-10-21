@@ -13,5 +13,5 @@ Folds Aiden
 
 ## Map Coordinate Basics
 
-- [[Understanding map coordinates](https://github.com/jiashenyue/geo242/blob/main/map-coordinates-basics/understanding-coordinates.ipynb)](https://github.com/aidenfol/gis-project-portfolio-geo242/blob/b527718a55bfcd404c76afb640457c9e82d843fe/map-coordinate-basics/understanding-coordinates.ipynb)
+- (https://github.com/jiashenyue/geo242/blob/main/map-coordinates-basics/understanding-coordinates.ipynb)](https://github.com/aidenfol/gis-project-portfolio-geo242/blob/b527718a55bfcd404c76afb640457c9e82d843fe/map-coordinate-basics/understanding-coordinates.ipynb)
 - [Georeference a 1960s Miami University campus map](https://github.com/jiashenyue/geo242/blob/main/map-coordinates-basics/georeference-miami-univ-campus-map.ipynb)
