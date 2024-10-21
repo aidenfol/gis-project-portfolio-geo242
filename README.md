@@ -8,7 +8,7 @@ Folds Aiden
 
 ## Basic Mapping
 
-- [First map in QGIS]([https://github.com/jiashenyue/geo441-541/blob/main/basic-mapping/first-arcgis-mapping.ipynb](https://github.com/jiashenyue/geo242/blob/main/basic-mapping/first-qgis-mapping.ipynb))
+- (https://github.com/aidenfol/gis-project-portfolio-geo242/blob/34423660c3575d50883496ea912e000ff03f037f/basic-mapping/first-qgis-mapping.ipynb)
 - [Map the age index based on 2000 census data](https://github.com/jiashenyue/geo242/blob/main/basic-mapping/age-index-mapping.ipynb)
 
 ## Map Coordinate Basics
