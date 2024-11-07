@@ -14,3 +14,7 @@ Folds Aiden
 
 - (https://github.com/aidenfol/gis-project-portfolio-geo242/blob/b527718a55bfcd404c76afb640457c9e82d843fe/map-coordinate-basics/understanding-coordinates.ipynb)
 - (https://github.com/aidenfol/gis-project-portfolio-geo242/blob/0e5d2dac0ce866320320b574b52724f86245ecb9/map-coordinate-basics/georeferencing.ipynb)
+
+## Spatial Analysis for Vector Data
+
+- (https://github.com/aidenfol/gis-project-portfolio-geo242/blob/d8c5ac8f58b6df7aec65865a90c9148eed86275f/Copy_of_week_10_assignment_template.ipynb)
