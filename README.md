@@ -21,4 +21,4 @@ Folds Aiden
 
 ## Working with U.S. Census Data for Spatial Analysis
 
-- (
+- (https://github.com/aidenfol/gis-project-portfolio-geo242/blob/35a0fea7eda1c644819cee72373ee7781b6932fd/Copy_of_week_12_assignment_template.ipynb)
