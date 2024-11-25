@@ -18,3 +18,7 @@ Folds Aiden
 ## Spatial Analysis for Vector Data
 
 - (https://github.com/aidenfol/gis-project-portfolio-geo242/blob/d8c5ac8f58b6df7aec65865a90c9148eed86275f/Copy_of_week_10_assignment_template.ipynb)
+
+## Working with U.S. Census Data for Spatial Analysis
+
+- (
