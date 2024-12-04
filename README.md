@@ -17,7 +17,10 @@ Folds, Aiden
 
 ## Map Coordinate Basics
 
+##### Understanding Coordinates
 - (https://github.com/aidenfol/gis-project-portfolio-geo242/blob/b527718a55bfcd404c76afb640457c9e82d843fe/map-coordinate-basics/understanding-coordinates.ipynb)
+
+##### Georeferencing
 - (https://github.com/aidenfol/gis-project-portfolio-geo242/blob/0e5d2dac0ce866320320b574b52724f86245ecb9/map-coordinate-basics/georeferencing.ipynb)
 
 ## Spatial Analysis
