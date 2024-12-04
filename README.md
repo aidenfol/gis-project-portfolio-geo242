@@ -13,7 +13,7 @@ Folds, Aiden
 - ([https://github.com/aidenfol/gis-project-portfolio-geo242/blob/34423660c3575d50883496ea912e000ff03f037f/basic-mapping/first-qgis-mapping.ipynb](https://github.com/aidenfol/gis-project-portfolio-geo242/blob/aa0ccd32ef8625915b93e008e7b7b7640567c58d/basic-mapping/Cartography.ipynb))
 
 ##### Age Index
-- (https://github.com/aidenfol/gis-project-portfolio-geo242/blob/24114fdd6059b3d0bd7dde76c31fd8a59038e089/basic-mapping/age-index-mapping.ipynb)
+- ([https://github.com/aidenfol/gis-project-portfolio-geo242/blob/24114fdd6059b3d0bd7dde76c31fd8a59038e089/basic-mapping/age-index-mapping.ipynb](https://github.com/aidenfol/gis-project-portfolio-geo242/blob/d580a55fe3d3f41d7b35ce0c344c9c990fff6d47/basic-mapping/Age-Index.ipynb))
 
 ## Map Coordinate Basics
 
