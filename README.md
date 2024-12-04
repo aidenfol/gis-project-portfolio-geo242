@@ -9,7 +9,10 @@ Folds Aiden
 
 ## Basic Mapping
 
+##### Cartography
 - (https://github.com/aidenfol/gis-project-portfolio-geo242/blob/34423660c3575d50883496ea912e000ff03f037f/basic-mapping/first-qgis-mapping.ipynb)
+
+##### Age Index
 - (https://github.com/aidenfol/gis-project-portfolio-geo242/blob/24114fdd6059b3d0bd7dde76c31fd8a59038e089/basic-mapping/age-index-mapping.ipynb)
 
 ## Map Coordinate Basics
