@@ -25,5 +25,5 @@ Folds Aiden
 ##### Census Data
 - (https://github.com/aidenfol/gis-project-portfolio-geo242/blob/35a0fea7eda1c644819cee72373ee7781b6932fd/Copy_of_week_12_assignment_template.ipynb)
 
-
+##### Raster Data
 - (https://github.com/aidenfol/gis-project-portfolio-geo242/blob/44590f4558f551fea96e521e906e826c40ddf64a/Spatial-Analysis/Raster-Data.ipynb)
