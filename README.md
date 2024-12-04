@@ -1,6 +1,6 @@
 # :earth_americas: GEO 242 Mapping the Changing World :earth_americas:
 
-Folds Aiden
+Folds, Aiden
 
 ## Overview
 
